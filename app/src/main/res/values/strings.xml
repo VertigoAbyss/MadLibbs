@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MadLibbs</string>
+    <string name="definite">Definitly not MADLIBS!!</string>
+
+    <string name='madlips1'>There once was a </string>
+    <string name='madlips2'> named </string>
+    <string name='madlips4'> who was not very good at their job. They would do their best, but they could never get their </string>
+    <string name='madlips5'> quite right. This often made them quite </string>
+    <string name='madlips6'>. They decided to seek out the great </string>
+    <string name='madlips7'> of </string>
+    <string name='madlips8'>, in order to solve their problem. They managed to get it, but it only helped them with their </string>
+    <string name='madlips9'>. In the end, they just went back to </string>
+    <string name='madlips10'>.</string>
+
+    <string name='hint1'>Occupation</string>
+    <string name='hint2'>Professor Name</string>
+    <string name='hint3'>Object (plural)</string>
+    <string name='hint4'>Strong Emotion</string>
+    <string name='hint5'>Object (singular)</string>
+    <string name='hint6'>Ridiculous Name</string>
+    <string name='hint7'>Object (plural)</string>
+    <string name='hint8'>Different Occupation</string>
+</resources>
